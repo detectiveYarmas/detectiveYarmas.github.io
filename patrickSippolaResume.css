@@ -1,0 +1,28 @@
+.bold {
+	font-weight: bold;
+}
+
+.sectionHead {
+	font-size: 150%;
+	font-weight: bold;
+}
+
+.subSection {
+	font-weight: bold;
+}
+
+#basicInfo {
+	font-size: 200%;
+	font-weight: bold;
+	
+}
+
+.time {
+	font-size: 80%;
+}
+
+.major {
+	font-size: 90%;
+	font-weight: bold;
+}
+
